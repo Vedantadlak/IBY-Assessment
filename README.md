@@ -1,5 +1,11 @@
 # IBY-Assessment
 
+## Details
+
+Name        - Vedant Adlak
+Roll no.    - 211154
+University  - IIT Kanpur
+Branch      - Civil Engineering
 
 
 ## Run Locally
